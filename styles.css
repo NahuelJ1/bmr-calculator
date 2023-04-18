@@ -1,0 +1,13 @@
+
+body{
+  background: (rgb(20, 195, 142));
+  background: linear-gradient(90deg, rgb(20, 195, 142) 0%, rgb(96, 196, 166) 35%, rgb(162, 231, 210) 100%);
+}
+
+
+.calculator{
+  box-shadow: 5px 5px 5px #d7f1ea;
+
+  background-color: #d7e9e3;
+}
+
